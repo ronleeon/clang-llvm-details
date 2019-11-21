@@ -1,2 +1,2 @@
 # clang-api
-Clang api usage fot latest version
+Clang api usage for the latest version
